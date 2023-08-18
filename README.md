@@ -1,1 +1,1 @@
-"# Przygotowania" 
+PRZECZYTAJMNIE.md
